@@ -1,0 +1,21 @@
+{
+  "title": "The 5 Stages of Making a Military Slide",
+  "subtitle": "And why DECKSTRIKE exists",
+  "classification": "UNCLASSIFIED // FOR MORALE PURPOSES ONLY",
+  "cards": [
+    { "label": "Stage I", "heading": "Denial", "body": "This won't take long. Just one quick slide." },
+    { "label": "Stage II", "heading": "Bargaining", "body": "What if I just reuse last quarter's deck?" },
+    { "label": "Stage III", "heading": "Panic", "body": "Why is the CG asking for more color?" },
+    { "label": "Stage IV", "heading": "Despair", "body": "Why does the font change when I email it?" }
+  ],
+  "chart": {
+    "title": "Stress Level vs Time to Brief",
+    "data": [[24,1],[12,3],[6,5],[3,8],[1,10]]
+  },
+  "takeaways": [
+    "70% of time spent formatting",
+    "0% of time spent fixing the problem",
+    "100% chance the boss wants changes"
+  ],
+  "footer": "Brief once. Never again."
+}

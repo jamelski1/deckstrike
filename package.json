@@ -1,0 +1,21 @@
+{
+  "name": "deckstrike",
+  "version": "1.0.0",
+  "description": "Neutralizing PowerPoint Since 2026.",
+  "main": "dist/cli.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/cli.ts",
+    "generate": "ts-node src/cli.ts --input sample.json --out output.png --width 1920 --height 1080"
+  },
+  "keywords": ["infographic", "svg", "png", "cli", "military"],
+  "license": "MIT",
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
